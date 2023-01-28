@@ -1,6 +1,6 @@
 #!/bin/bash
-#Author: Kelvin
-#Date: October 19 2022
+#Author: Rachael
+#Date: January 28 2023
 #Description: Installing docker on contos7
 
 sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin

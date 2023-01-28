@@ -1,6 +1,6 @@
 #!/bin/bash
-#Author: Kelvin
-#Date: October 19 2020
+#Author: Rachael
+#Date: 01 28 2023
 #Description: Installation of some packages in linux
 
 yum install wget -y

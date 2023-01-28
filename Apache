@@ -1,6 +1,6 @@
 #!/bin/bash
-#Author: Kelvin
-#Date: October 19 2022
+#Author: Rachael
+#Date: january 28 2023
 #Description: Installation of apache
 
 yum install httpd -y

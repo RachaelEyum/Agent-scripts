@@ -1,6 +1,6 @@
 #!/bin/bash
-#Author: Kelvin
-#Date: October 19 2020
+#Author: Rachael
+#Date: January 28 2023
 #Description: Jenkins installation:
 
 
